@@ -7,7 +7,7 @@ export default {
     ...chronoblogTheme.color,
     text: '#222',
     background: '#fff',
-    link: '#25617b',
+    link: '222',  //#25617b this was the original link colour (blue) - MA/23-07-2024
     primary: '#f5cd79',
     secondary: '#f7d794',
     muted: '#f7f7f7',
@@ -16,6 +16,7 @@ export default {
       dark: {
         ...chronoblogTheme.colors.modes.dark,
         text: '#eaeaea',
+        link: '#eaeaea',  //#25617b this was the original link colour (blue) - MA/23-07-2024
         background: '#0e0f17',
         muted: '#161b1d',
       },

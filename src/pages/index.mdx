@@ -1,35 +1,71 @@
 <AuthorBanner />
+
 <p>&nbsp;</p>
-<h3>Posts and Articles&nbsp;&nbsp;
-  <Link to='posts-and-articles'>
-    <Button style={{marginTop: '8px'}}>all posts and articles</Button>
+
+#### Professional writing 
+
+<p style="font-size: 18px;">Writing samples from professional writing assignments.</p>
+
+<h6>Blog articles&nbsp;&nbsp;
+  <Link to='blogs'>
+    <Button style={{marginTop: '8px'}}>content writing</Button>
   </Link>
-</h3>
+</h6>
 
 <FeedItems 
   itemsFormat="compact" 
-  filterByTags={['post', 'article']} 
+  filterByTags={['blog', 'article']} 
   limit={4} 
 />
 
-<p>&nbsp;</p>
-<h3>Podcasts&nbsp;&nbsp;
-  <Link to='tags/podcast'>
-    <Button style={{marginTop: '8px'}}>all podcasts</Button>
+<h6>Use cases&nbsp;&nbsp;
+  <Link to='use-case'>
+    <Button style={{marginTop: '8px'}}>content writing</Button>
   </Link>
-</h3>
+</h6>
 
-<FeedItems itemsFormat="compact" filterByTags={['podcast']} limit={3} />
+<FeedItems 
+  itemsFormat="compact" 
+  filterByTags={['use-case']} 
+  limit={4} 
+/>
 
-<p>&nbsp;</p>
+<h6>Whitepapers&nbsp;&nbsp;
+  <Link to='Whitepapers'>
+    <Button style={{marginTop: '8px'}}>content writing</Button>
+  </Link>
+</h6>
 
-### Certificates
+<FeedItems 
+  itemsFormat="compact" 
+  filterByTags={['whitepaper']} 
+  limit={4} 
+/>
 
-<FeedItems itemsFormat="compact" filterByTags={['certificate']} />
+<h6>Documentation&nbsp;&nbsp;
+  <Link to='documentation'>
+    <Button style={{marginTop: '8px'}}>documentation</Button>
+  </Link>
+</h6>
 
-<p>&nbsp;</p>
+<FeedItems 
+  itemsFormat="compact" 
+  filterByTags={['documentation']} 
+  limit={4} 
+/>
 
-### Projects
+#### Personal writing
 
-<FeedItems itemsFormat="compact" filterByTags={['project']} />
-<p>&nbsp;</p>
+<p style="font-size: 18px;">Personal writing, including blogs, poetry, and academic writing.</p>
+
+<h6>Poems&nbsp;&nbsp;
+  <Link to='poems'>
+    <Button style={{marginTop: '8px'}}>poetry</Button>
+  </Link>
+</h6>
+
+<FeedItems 
+  itemsFormat="compact" 
+  filterByTags={['poem']} 
+  limit={4} 
+/>
