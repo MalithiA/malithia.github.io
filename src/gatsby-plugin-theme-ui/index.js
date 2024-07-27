@@ -1,4 +1,5 @@
 import chronoblogTheme from 'gatsby-theme-chronoblog/src/gatsby-plugin-theme-ui';
+import "@fontsource/poppins";
 
 export default {
   ...chronoblogTheme,

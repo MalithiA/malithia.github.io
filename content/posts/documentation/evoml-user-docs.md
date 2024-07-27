@@ -1,9 +1,9 @@
 ---
 title: evoML user documentation 
-cover: ./poem-1.jpg
 date: 2018-01-01
 tags: ['documentation']
 ---
+<div style="font-family: 'Poppins', sans-serif;">
 
 # Trials
 
@@ -94,3 +94,5 @@ In this section, you are able to customise the data splitting options for the se
 |---|---|
 | Holdout | The training set of data will be sub-divided into two, where one will be used for training, and the other will be used for validation. |
 | K-folds cross validation | The training dataset will be divided into K subsets. One of those subsets will be placed aside, and the model will be fitted on the K-1 data. The portion of data that was set aside will be used for model validation. |
+
+</div>
