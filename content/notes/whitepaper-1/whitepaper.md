@@ -9,4 +9,4 @@ hide: false
 tags: ['whitepaper']
 ---
 
-Find the link to the whitepaper at: [whitepaper 13](whitepaper&13.pdf)
+Find the link to the whitepaper at: [whitepaper 13](files/whitepaper-13.pdf)
