@@ -4,7 +4,7 @@
 
 #### Professional writing 
 
-<p style="font-size: 18px;">Writing samples from professional writing assignments.</p>
+<p style="font-size: 18px;">Samples from professional writing assignments.</p>
 
 <h6>Blog articles&nbsp;&nbsp;
   <Link to='blogs'>
@@ -56,7 +56,19 @@
 
 #### Personal writing
 
-<p style="font-size: 18px;">Personal writing, including blogs, poetry, and academic writing.</p>
+<p style="font-size: 18px;">Personal writing, including poetry and academic writing.</p>
+
+<h6>Academic publications&nbsp;&nbsp;
+  <Link to='publications'>
+    <Button style={{marginTop: '8px'}}>publication</Button>
+  </Link>
+</h6>
+
+<FeedItems 
+  itemsFormat="compact" 
+  filterByTags={['publication']} 
+  limit={4} 
+/>
 
 <h6>Poems&nbsp;&nbsp;
   <Link to='poems'>

@@ -1,19 +1,16 @@
 ---
 title: evoML user documentation 
-date: 2018-01-01
+date: 2024-06-30
 tags: ['documentation']
 ---
 <div style="font-family: 'Poppins', sans-serif;">
 
+_For complete documentation, see [evoML user documentation](https://docs.evoml.ai/)_
 # Trials
 
 On evoML, a "trial" is the term used to refer to the end-to-end model building process. A trial consists of data preprocessing, feature engineering, model building, and model evaluation.
 
 _Trials_ tab lists all attempted trials, by default arranged by date and time of last update, and gives you the option to create a new trial. See figure below for an overview of the _Trials_ tab.
-
-If you are just starting out with evoML and have not attempted any trials yet, this tab will appear empty.
-To find more about creating a new trial, see the next sub-section, _New Trial_.
-
 
 ![Overview of the Trials tab](trials-overview.png)
 
@@ -50,17 +47,17 @@ These sections are disucussed in detail below:
 
 Based on your dataset, evoML will determine the machine learning task for the trial. You are also able to change this if required.
 
-Machine learning task: Classification
+**Machine learning task: Classification**
     
 In classification problems, the machine learning models aim to predict if a given point of input data belongs to one of given categories.
 If the column/feature you choose to predict is of a binary or categorical data type, then evoML will automatically detect this as a classification problem. The feature analysis visualisations you receive will be bar graphs.
 
-Machine learning task: Regression
+**Machine learning task: Regression**
     
 In regression problems, the machine learning models aim to predict the value of a given numerical entity.
 If the column/feature you choose to predict is of a numerical data type, then evoML will automatically detect this as a regression problem. The feature analysis visualisations you receive will be histograms, density plots, and box plots.
 
-Machine learning task: Forecasting
+**Machine learning task: Forecasting**
     
 In forecasting problems, machine learning models aim to forecast future values the target variable.
 

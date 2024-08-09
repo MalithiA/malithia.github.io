@@ -21,6 +21,10 @@ module.exports = {
         icon: `linkedin`, // change the icon to "linkedin"
         url: `https://www.linkedin.com/in/malithia/`,
         },
+        {
+          icon: `twitter`, // change the icon to "Twitter"
+          url: `https://x.com/ma9lithi`,
+          },
       ],
       // {
       //   icon: `github`,

@@ -1,7 +1,7 @@
 ---
 title: Artificial intelligence for Hedge Funds - How Can Machine Learning and Code Optimisation Generate Greater Alpha?
 # cover: ./image.png
-date: 2019-08-04
+date: 2022-08-15
 link: https://www.turintech.ai/artificial-intelligence-for-hedge-funds-how-can-machine-learning-and-code-optimisation-generate-greater-alpha/
 slug: ai-for-hedge-funds
 description: 'Article on how AI can be used for hedge funds'

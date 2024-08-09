@@ -1,7 +1,7 @@
 ---
 title: Hymns for the hybrid
 cover: ./poem-1.jpg
-date: 2018-01-01
+date: 2018-08-15
 tags: ['poem']
 ---
 
