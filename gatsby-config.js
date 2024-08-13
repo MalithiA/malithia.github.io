@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Malithi Alahapperuma',
     siteDescription: 'Writing portfolio of Malithi Alahapperuma',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-profile.now.sh/',
+    siteUrl: 'https://malithia.github.io/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
@@ -71,7 +71,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/snoopy.png`,
       },
     },
     {
