@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Malithi Alahapperuma',
     siteDescription: 'Writing portfolio of Malithi Alahapperuma',
-    siteImage: '/banner.png', // main image of the site for metadata
+    siteImage: '/malithi-banner.png', // main image of the site for metadata
     siteUrl: 'https://malithia.github.io/',
     pathPrefix: '/',
     siteLanguage: 'en',
