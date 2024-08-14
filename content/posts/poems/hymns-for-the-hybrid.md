@@ -1,6 +1,6 @@
 ---
 title: Hymns for the hybrid
-cover: ./poem-1.jpg
+cover: ./poem2.png
 date: 2018-08-15
 tags: ['poem']
 ---

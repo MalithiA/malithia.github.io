@@ -1,6 +1,6 @@
 ---
 title: Fireworks, wine, and morbidity
-cover: ./poem-1.jpg
+cover: ./poem1.png
 date: 2019-08-15
 tags: ['poem']
 ---
