@@ -15,7 +15,7 @@ module.exports = {
       social: [
         {
         icon: `envelope`,
-        url: `mailto:malithi.a@outlook.com`,
+        url: `mailto:malithialahapperuma@outlook.com`,
         },
         {
         icon: `linkedin`, // change the icon to "linkedin"
