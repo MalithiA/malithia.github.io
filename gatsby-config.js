@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Malithi Alahapperuma',
     siteDescription: 'Writing portfolio of Malithi Alahapperuma',
     siteImage: '/malithi-banner.png', // main image of the site for metadata
-    siteUrl: 'https://malithia.github.io/',
+    siteUrl: 'https://malithia.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
